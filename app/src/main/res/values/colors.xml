@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_brown_bg">#FFB74D</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="primary_text_color">#333333</color> <!-- Dark grey/black for main text -->
+    <color name="secondary_text_color">#757575</color> <!-- Lighter grey for descriptions -->
+    <color name="medium_grey">#FF888888</color> <!-- For hints, icons -->
+
+    <!-- Input field background is defined in the drawable, but keep a reference maybe -->
+    <color name="input_bg_color">#FFF0E4</color> <!-- Light peach/orange -->
+
+    <!-- Button Backgrounds -->
+    <color name="login_button_bg_color">#FF7701</color> <!-- Orange for Login button -->
+    <color name="google_button_bg_color">#FFF7EE</color> <!-- Lighter peach for Google button -->
+
+    <!-- Link Color -->
+    <color name="link_color">#4285F4</color>
+
+
+    <!-- App theme colors -->
+
+
+    <!-- Standard Material Design colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>
