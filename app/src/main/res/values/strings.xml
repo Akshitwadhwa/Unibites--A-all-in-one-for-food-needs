@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unibites</string>
+    <string name="default_web_client_id">687704802380-c97knd6enrtt8n1gvsp4o1fum11kk5gn.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">Back</string>
+</resources>

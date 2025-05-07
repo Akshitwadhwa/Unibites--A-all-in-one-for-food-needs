@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+    This is the minus icon used for the decrease quantity button in cart items.
+    You can replace this with your own custom minus icon if needed.
+    Location: In each cart item's quantity control
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#000000"
+        android:pathData="M19,13H5v-2h14v2z" />
+</vector> 

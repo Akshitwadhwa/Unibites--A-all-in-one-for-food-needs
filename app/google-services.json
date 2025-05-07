@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687704802380",
+    "project_id": "univanibites",
+    "storage_bucket": "univanibites.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687704802380:android:a9c02e3d40fdffec10e0e9",
+        "android_client_info": {
+          "package_name": "com.example.unibites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687704802380-gaf9j8bc2gbsecaru4f0kl9vee6d4mef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unibites",
+            "certificate_hash": "c1dc6cea5389e319f1fdf21f8eaa53a03b766256"
+          }
+        },
+        {
+          "client_id": "687704802380-c97knd6enrtt8n1gvsp4o1fum11kk5gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFgZ5JyjE620YnrPIzppB5bq5KrDMNo1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687704802380-c97knd6enrtt8n1gvsp4o1fum11kk5gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
