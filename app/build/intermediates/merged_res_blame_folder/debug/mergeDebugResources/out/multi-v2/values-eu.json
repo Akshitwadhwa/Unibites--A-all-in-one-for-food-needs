@@ -4,7 +4,41 @@
             "outputFile": "com.example.unibites.app-mergeDebugResources-44:/values-eu/values-eu.xml",
             "map": [
                 {
-                    "source": "/Users/Lenovo/.gradle/caches/8.11.1/transforms/7b8a337f4209eb12e31cafd3c07563fc/transformed/material-1.10.0/res/values-eu/values-eu.xml",
+                    "source": "/Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,356,459,564,667,786",
+                        "endColumns": "97,102,99,102,104,102,118,100",
+                        "endOffsets": "148,251,351,454,559,662,781,882"
+                    },
+                    "to": {
+                        "startLines": "40,41,42,43,44,45,46,145",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3802,3900,4003,4103,4206,4311,4414,13915",
+                        "endColumns": "97,102,99,102,104,102,118,100",
+                        "endOffsets": "3895,3998,4098,4201,4306,4409,4528,14011"
+                    }
+                },
+                {
+                    "source": "/Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/fc928bfe91bc66bf1b073770dbafe0c3/transformed/browser-1.4.0/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,155,257,370",
+                        "endColumns": "99,101,112,104",
+                        "endOffsets": "150,252,365,470"
+                    },
+                    "to": {
+                        "startLines": "69,73,74,75",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "7215,7574,7676,7789",
+                        "endColumns": "99,101,112,104",
+                        "endOffsets": "7310,7671,7784,7889"
+                    }
+                },
+                {
+                    "source": "/Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/7b8a337f4209eb12e31cafd3c07563fc/transformed/material-1.10.0/res/values-eu/values-eu.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,58 +57,7 @@
                     }
                 },
                 {
-                    "source": "/Users/Lenovo/.gradle/caches/8.11.1/transforms/4617ace39b9b337a798e1fa427474ad1/transformed/jetified-play-services-basement-18.5.0/res/values-eu/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "138",
-                        "endOffsets": "333"
-                    },
-                    "to": {
-                        "startLines": "58",
-                        "startColumns": "4",
-                        "startOffsets": "5847",
-                        "endColumns": "142",
-                        "endOffsets": "5985"
-                    }
-                },
-                {
-                    "source": "/Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/res/values-eu/values-eu.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,256,356,459,564,667,786",
-                        "endColumns": "97,102,99,102,104,102,118,100",
-                        "endOffsets": "148,251,351,454,559,662,781,882"
-                    },
-                    "to": {
-                        "startLines": "40,41,42,43,44,45,46,145",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "3802,3900,4003,4103,4206,4311,4414,13915",
-                        "endColumns": "97,102,99,102,104,102,118,100",
-                        "endOffsets": "3895,3998,4098,4201,4306,4409,4528,14011"
-                    }
-                },
-                {
-                    "source": "/Users/Lenovo/.gradle/caches/8.11.1/transforms/a340f0f73e53e730e1dcf954ce7274f7/transformed/biometric-1.1.0/res/values-eu/values-eu.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,166,259,378,514,647,783,909,1066,1165,1309,1448",
-                        "endColumns": "110,92,118,135,132,135,125,156,98,143,138,138",
-                        "endOffsets": "161,254,373,509,642,778,904,1061,1160,1304,1443,1582"
-                    },
-                    "to": {
-                        "startLines": "68,70,76,77,78,79,80,81,82,83,84,85",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "7104,7315,7894,8013,8149,8282,8418,8544,8701,8800,8944,9083",
-                        "endColumns": "110,92,118,135,132,135,125,156,98,143,138,138",
-                        "endOffsets": "7210,7403,8008,8144,8277,8413,8539,8696,8795,8939,9078,9217"
-                    }
-                },
-                {
-                    "source": "/Users/Lenovo/.gradle/caches/8.11.1/transforms/8339d6efc7960d9cc6c235e8d21a9468/transformed/jetified-play-services-base-18.5.0/res/values-eu/values.xml",
+                    "source": "/Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/8339d6efc7960d9cc6c235e8d21a9468/transformed/jetified-play-services-base-18.5.0/res/values-eu/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -91,24 +74,7 @@
                     }
                 },
                 {
-                    "source": "/Users/Lenovo/.gradle/caches/8.11.1/transforms/fc928bfe91bc66bf1b073770dbafe0c3/transformed/browser-1.4.0/res/values-eu/values-eu.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,155,257,370",
-                        "endColumns": "99,101,112,104",
-                        "endOffsets": "150,252,365,470"
-                    },
-                    "to": {
-                        "startLines": "69,73,74,75",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "7215,7574,7676,7789",
-                        "endColumns": "99,101,112,104",
-                        "endOffsets": "7310,7671,7784,7889"
-                    }
-                },
-                {
-                    "source": "/Users/Lenovo/.gradle/caches/8.11.1/transforms/efd2a7c5a7b4cf5137db4e1e6a7d038a/transformed/appcompat-1.6.1/res/values-eu/values-eu.xml",
+                    "source": "/Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/efd2a7c5a7b4cf5137db4e1e6a7d038a/transformed/appcompat-1.6.1/res/values-eu/values-eu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -125,7 +91,7 @@
                     }
                 },
                 {
-                    "source": "/Users/Lenovo/.gradle/caches/8.11.1/transforms/b10152eb226aeb5f8b8545d562e1f25a/transformed/jetified-credentials-1.5.0/res/values-eu/values-eu.xml",
+                    "source": "/Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/b10152eb226aeb5f8b8545d562e1f25a/transformed/jetified-credentials-1.5.0/res/values-eu/values-eu.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -139,6 +105,40 @@
                         "startOffsets": "3070,3183",
                         "endColumns": "112,119",
                         "endOffsets": "3178,3298"
+                    }
+                },
+                {
+                    "source": "/Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/4617ace39b9b337a798e1fa427474ad1/transformed/jetified-play-services-basement-18.5.0/res/values-eu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "138",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "58",
+                        "startColumns": "4",
+                        "startOffsets": "5847",
+                        "endColumns": "142",
+                        "endOffsets": "5985"
+                    }
+                },
+                {
+                    "source": "/Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/a340f0f73e53e730e1dcf954ce7274f7/transformed/biometric-1.1.0/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,166,259,378,514,647,783,909,1066,1165,1309,1448",
+                        "endColumns": "110,92,118,135,132,135,125,156,98,143,138,138",
+                        "endOffsets": "161,254,373,509,642,778,904,1061,1160,1304,1443,1582"
+                    },
+                    "to": {
+                        "startLines": "68,70,76,77,78,79,80,81,82,83,84,85",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7104,7315,7894,8013,8149,8282,8418,8544,8701,8800,8944,9083",
+                        "endColumns": "110,92,118,135,132,135,125,156,98,143,138,138",
+                        "endOffsets": "7210,7403,8008,8144,8277,8413,8539,8696,8795,8939,9078,9217"
                     }
                 }
             ]

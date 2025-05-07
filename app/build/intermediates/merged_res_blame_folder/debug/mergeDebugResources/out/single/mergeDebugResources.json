@@ -1,358 +1,434 @@
 [
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_back_icon.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/back_icon.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_search_background.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/search_background.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/layout_cart_item_layout.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/layout/cart_item_layout.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_img_1.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/img_1.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/layout_fragment_food.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/layout/fragment_food.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_time.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_time.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_dosa.jpg.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/dosa.jpg"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_cart.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_cart.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/color_nav_icon_color.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/color/nav_icon_color.xml"
+        "merged": "com.example.unibites.app-debug-46:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.unibites.app-main-48:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
         "merged": "com.example.unibites.app-debug-46:/drawable_payment_pic.png.flat",
         "source": "com.example.unibites.app-main-48:/drawable/payment_pic.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/layout_activity_splash.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/layout/activity_splash.xml"
+        "merged": "com.example.unibites.app-debug-46:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.unibites.app-main-48:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_cart.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/cart.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_app_search.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/app_search.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.unibites.app-debug-46:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.unibites.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_search.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/search.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_credit_card.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_credit_card.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_back_icon.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/back_icon.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_add_to_cart.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_add_to_cart.xml"
+        "merged": "com.example.unibites.app-debug-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.unibites.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_rating_background.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/rating_background.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_cart_pic.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/cart_pic.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_time.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_time.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_arrow_right.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_img.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/img.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_edit_text_background.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/edit_text_background.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_plus.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_plus.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_food.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_food.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_reviews.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_reviews.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_home.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_home.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_search.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/search.xml"
+        "merged": "com.example.unibites.app-debug-46:/layout_activity_main.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_image_1.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/image_1.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_image_3.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/image_3.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_edit_text_background.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/edit_text_background.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_history.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_history.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_filter.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/filter.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_add_to_cart.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_add_to_cart.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/layout_item_cart.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/layout/item_cart.xml"
+        "merged": "com.example.unibites.app-debug-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.unibites.app-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.unibites.app-debug-46:/drawable_profile_pic.png.flat",
-        "source": "com.example.unibites.app-main-48:/drawable/profile_pic.png"
+        "merged": "com.example.unibites.app-debug-46:/layout_item_profile_menu_logout.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/item_profile_menu_logout.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_person.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_person.xml"
+        "merged": "com.example.unibites.app-debug-46:/layout_cart_item_layout.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/cart_item_layout.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_arrow.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/arrow.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_rounded_button_background.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/rounded_button_background.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_minus.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_minus.xml"
+        "merged": "com.example.unibites.app-debug-46:/layout_product_card_item.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/product_card_item.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_home.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/home.png"
+        "merged": "com.example.unibites.app-debug-46:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.unibites.app-main-48:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable___rectangle.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/__rectangle.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_history.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/history.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_notification.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/notification.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_reviews.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_reviews.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_border_button.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/border_button.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_img.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/img.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_food.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/food.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_menu.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/menu.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_location.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/location.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_filter.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/filter.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.unibites.app-debug-46:/layout_fragment_food.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/fragment_food.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/xml_data_extraction_rules.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/xml/data_extraction_rules.xml"
+        "merged": "com.example.unibites.app-debug-46:/color_nav_icon_color.xml.flat",
+        "source": "com.example.unibites.app-main-48:/color/nav_icon_color.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_circle_white.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/circle_white.xml"
+        "merged": "com.example.unibites.app-debug-46:/layout_item_profile_menu_reviews.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/item_profile_menu_reviews.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_minus.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_minus.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.example.unibites.app-debug-46:/layout_item_profile_menu_notifications.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/item_profile_menu_notifications.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_unilogo.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/unilogo.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_star.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_star.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_placeholder_image.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_placeholder_image.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable___rectangle.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/__rectangle.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/mipmap-mdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_claculation_box.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/claculation_box.png"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_chilli_biryani.jpeg.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/chilli_biryani.jpeg"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/mipmap-xhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_search_background.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/search_background.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_help.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_help.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/layout_activity_payment.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/layout/activity_payment.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_unibiteslogo.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/unibiteslogo.png"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_button_background.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/button_background.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_history.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/history.png"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_image.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/image.png"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/mipmap-xxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/layout_activity_login.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/layout/activity_login.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/menu_bottom_nav_menu.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/menu/bottom_nav_menu.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_logout.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_logout.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/mipmap-hdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/layout_fragment_cart.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/layout/fragment_cart.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/layout_activity_sign_up.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/layout/activity_sign_up.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/xml_backup_rules.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/xml/backup_rules.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_image_4.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/image_4.png"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_input_field_background.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/input_field_background.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/layout_product_card_item.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/layout/product_card_item.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_menu.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_menu.xml"
-    },
-    {
-        "merged": "com.example.unibites.app-debug-46:/layout_fragment_home.xml.flat",
-        "source": "com.example.unibites.app-main-48:/layout/fragment_home.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_back.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_back.xml"
     },
     {
         "merged": "com.example.unibites.app-debug-46:/drawable_person_pic.png.flat",
         "source": "com.example.unibites.app-main-48:/drawable/person_pic.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_back.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_back.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_logout_pic.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/logout_pic.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_menu.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/menu.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_user_pic.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/user_pic.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_search.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_search.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_notification.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/notification.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_notification.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_notification.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_image_1.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/image_1.png"
     },
     {
-        "merged": "com.example.unibites.app-debug-46:/drawable_back_background.png.flat",
-        "source": "com.example.unibites.app-main-48:/drawable/back_background.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_border_button.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/border_button.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_app_search.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/app_search.png"
+        "merged": "com.example.unibites.app-debug-46:/drawable_circle_white.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/circle_white.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_location.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/location.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/color_nav_text_color.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/color/nav_text_color.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_claculation_box.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/claculation_box.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_settings.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_settings.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_home.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_home.xml"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/mipmap-xxxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_image_3.png.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/image_3.png"
-    },
-    {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.example.unibites.app-debug-46:/drawable_input_field_background.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/input_field_background.xml"
     },
     {
         "merged": "com.example.unibites.app-debug-46:/layout_activity_profile.xml.flat",
         "source": "com.example.unibites.app-main-48:/layout/activity_profile.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_food.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_food.xml"
+        "merged": "com.example.unibites.app-debug-46:/layout_item_profile_menu_settings.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/item_profile_menu_settings.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_history.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_history.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_image_4.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/image_4.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_image.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/image.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_arrow_right.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_arrow_right.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_arrow.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/arrow.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/layout_fragment_history.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/layout/fragment_history.xml"
+        "merged": "com.example.unibites.app-debug-46:/layout_fragment_cart.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/fragment_cart.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/layout_fragment_home.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/layout/fragment_home.xml"
+        "merged": "com.example.unibites.app-debug-46:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.unibites.app-main-48:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/layout_activity_main.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/layout/activity_main.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_rounded_button_background.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/rounded_button_background.xml"
+        "merged": "com.example.unibites.app-debug-46:/drawable_faq_pic.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/faq_pic.png"
     },
     {
-        "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/drawable_ic_star.xml.flat",
-        "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/ic_star.xml"
+        "merged": "com.example.unibites.app-debug-46:/color_nav_text_color.xml.flat",
+        "source": "com.example.unibites.app-main-48:/color/nav_text_color.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_activity_payment.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_cart.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_cart.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.unibites.app-main-48:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_notification_bell.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/notification_bell.png"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_item_profile_menu_faqs.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/item_profile_menu_faqs.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_notification.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_food.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/food.png"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_home.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.unibites.app-main-48:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_button_background.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_activity_login.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_settings.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_logout.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_item_cart.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_dosa.jpg.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/dosa.jpg"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_item_profile_menu_addresses.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/item_profile_menu_addresses.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_profile_pic.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/profile_pic.png"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_fragment_history.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_search.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_plus.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_chilli_biryani.jpeg.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/chilli_biryani.jpeg"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.unibites.app-main-48:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_unibiteslogo.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/unibiteslogo.png"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_fav_icon.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/fav_icon.png"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_help.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_help.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_rating_background.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/rating_background.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_activity_splash.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_dots.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/dots.png"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/xml_backup_rules.xml.flat",
+        "source": "com.example.unibites.app-main-48:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_item_profile_menu_cart.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/item_profile_menu_cart.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_credit_card.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_credit_card.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_placeholder_image.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_placeholder_image.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.unibites.app-main-48:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_fragment_home.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_item_profile_menu_personal_info.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/item_profile_menu_personal_info.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_back_background.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/back_background.png"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.unibites.app-main-48:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_unilogo.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/unilogo.png"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_item_profile_menu_payment.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/item_profile_menu_payment.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_person.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_address_pic.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/address_pic.png"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_settings_pic.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/settings_pic.png"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_item_profile_menu_favourite.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/item_profile_menu_favourite.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_ic_menu.xml.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_cart.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/cart.png"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.unibites.app-main-48:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.unibites.app-main-48:/mipmap-xhdpi/ic_launcher_round.webp"
     }
 ]
