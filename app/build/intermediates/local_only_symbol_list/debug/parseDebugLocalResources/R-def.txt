@@ -69,6 +69,7 @@ drawable image_3
 drawable image_4
 drawable img
 drawable img_1
+drawable img_2
 drawable input_field_background
 drawable location
 drawable logout_pic
@@ -145,6 +146,7 @@ id recyclerViewCart
 id recyclerViewDinner
 id recyclerViewLunch
 id recyclerViewSnacks
+id removeButton
 id smoothie_zone_card
 id splash_logo
 id text_account_prompt

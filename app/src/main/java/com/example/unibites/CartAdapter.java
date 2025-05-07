@@ -85,11 +85,11 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.CartViewHolder
             }
         });
 
-//        holder.btnRemoveItem.setOnClickListener(v -> {
-//            if (listener != null) {
-//                listener.onRemoveItem(cartItem, holder.getAdapterPosition());
-//            }
-//        });
+        holder.btnRemoveItem.setOnClickListener(v -> {
+            if (listener != null) {
+                listener.onRemoveItem(cartItem, holder.getAdapterPosition());
+            }
+        });
     }
 
     @Override
@@ -121,6 +121,7 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.CartViewHolder
             tvCartItemTotal = itemView.findViewById(R.id.priceTextView);
             btnDecreaseQuantity = itemView.findViewById(R.id.decreaseButton);
             btnIncreaseQuantity = itemView.findViewById(R.id.increaseButton);
+            btnRemoveItem = itemView.findViewById(R.id.removeButton);
         }
     }
 }
