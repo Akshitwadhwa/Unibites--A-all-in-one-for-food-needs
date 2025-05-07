@@ -116,6 +116,10 @@
         "source": "com.example.unibites.app-main-48:/drawable/img.png"
     },
     {
+        "merged": "com.example.unibites.app-debug-46:/drawable_fruitcorner.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/fruitcorner.png"
+    },
+    {
         "merged": "com.example.unibites.app-debug-46:/drawable_menu.png.flat",
         "source": "com.example.unibites.app-main-48:/drawable/menu.png"
     },
@@ -220,12 +224,20 @@
         "source": "com.example.unibites.app-main-48:/layout/fragment_cart.xml"
     },
     {
+        "merged": "com.example.unibites.app-debug-46:/drawable_qcafe.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/qcafe.png"
+    },
+    {
         "merged": "com.example.unibites.app-debug-46:/mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "com.example.unibites.app-main-48:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.example.unibites.app-debug-46:/drawable_ic_launcher_background.xml.flat",
         "source": "com.example.unibites.app-main-48:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/layout_open.xml.flat",
+        "source": "com.example.unibites.app-main-48:/layout/open.xml"
     },
     {
         "merged": "com.example.unibites.app-debug-46:/drawable_faq_pic.png.flat",
@@ -306,6 +318,10 @@
     {
         "merged": "com.example.unibites.app-debug-46:/layout_fragment_history.xml.flat",
         "source": "com.example.unibites.app-main-48:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-debug-46:/drawable_smoothie.png.flat",
+        "source": "com.example.unibites.app-main-48:/drawable/smoothie.png"
     },
     {
         "merged": "com.example.unibites.app-debug-46:/drawable_ic_search.xml.flat",

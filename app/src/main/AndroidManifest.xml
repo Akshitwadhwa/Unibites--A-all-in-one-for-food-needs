@@ -25,6 +25,10 @@
             android:name=".LoginActivity"
             android:exported="false" />
         <activity
+            android:name=".OpenActivity"
+            android:exported="false" />
+
+        <activity
             android:name=".SplashActivity"
             android:exported="true"
             android:theme="@style/Theme.AppCompat.NoActionBar"> <!-- Optional: Hides the top bar for splash -->
@@ -39,6 +43,9 @@
             android:exported="true"> <!-- Make sure this is true -->
             <!-- No intent-filter here anymore -->
         </activity>
+        <activity
+            android:name=".OpenActivity"
+            android:exported="false" />
     </application>
 
 </manifest>

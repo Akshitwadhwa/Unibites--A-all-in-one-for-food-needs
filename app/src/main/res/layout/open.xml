@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/landingPage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF8E1"
+    android:padding="16dp"
+    tools:context=".open_activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <!-- Logo -->
+
+
+        <!-- This is the code for the image view-->
+
+        <!-- Restaurant Cards -->
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:src="@drawable/unilogo" />
+
+        <TextView
+            android:id="@+id/headerText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="16dp"
+            android:text="Hi !!,\nWhere Do You Wanna Eat Today?"
+            android:textColor="#558B2F"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+
+            <FrameLayout
+                android:id="@+id/qcafe_card"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginBottom="16dp"
+                android:background="@drawable/qcafe"
+                android:elevation="4dp"
+                android:padding="8dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="Qcafe"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/qcafe"
+                    />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:background="#AA000000"
+                    android:text="Qcafe"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20sp"
+                    android:padding="8dp"
+                    android:textStyle="bold"
+                    android:gravity="center" />
+            </FrameLayout>
+
+            <!-- Smoothie Zone Card -->
+            <FrameLayout
+                android:id="@+id/smoothie_zone_card"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginBottom="16dp"
+                android:background="@drawable/smoothie"
+                android:elevation="4dp"
+                android:padding="8dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/smoothie"
+                    android:scaleType="centerCrop"
+                    android:contentDescription="Smoothie Zone" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:background="#AA000000"
+                    android:text="Smoothie Zone"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20sp"
+                    android:padding="8dp"
+                    android:textStyle="bold"
+                    android:gravity="center" />
+            </FrameLayout>
+
+            <!-- Fruit Corner Card -->
+            <FrameLayout
+                android:id="@+id/fruit_corner_card"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginBottom="32dp"
+                android:elevation="4dp"
+                android:padding="8dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/fruitcorner"
+                    android:scaleType="centerCrop"
+                    android:contentDescription="Fruit Corner" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:background="#AA000000"
+                    android:text="Fruit Corner"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20sp"
+                    android:padding="8dp"
+                    android:textStyle="bold"
+                    android:gravity="center" />
+            </FrameLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

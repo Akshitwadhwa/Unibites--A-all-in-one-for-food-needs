@@ -37,6 +37,7 @@ drawable faq_pic
 drawable fav_icon
 drawable filter
 drawable food
+drawable fruitcorner
 drawable history
 drawable home
 drawable ic_add_to_cart
@@ -77,11 +78,13 @@ drawable notification_bell
 drawable payment_pic
 drawable person_pic
 drawable profile_pic
+drawable qcafe
 drawable rating_background
 drawable rounded_button_background
 drawable search
 drawable search_background
 drawable settings_pic
+drawable smoothie
 drawable unibiteslogo
 drawable unilogo
 drawable user_pic
@@ -107,7 +110,10 @@ id edit_text_password
 id email_input_layout
 id food_image
 id fragment_container
+id fruit_corner_card
 id grand_total
+id headerText
+id image
 id increaseButton
 id itemDetailsTextView
 id itemImageView
@@ -116,6 +122,7 @@ id item_image
 id item_name
 id item_price
 id item_quantity
+id landingPage
 id logo_image
 id main
 id nav_cart
@@ -130,6 +137,7 @@ id priceTextView
 id productImage
 id productName
 id productPrice
+id qcafe_card
 id quantityControlLayout
 id quantityTextView
 id recyclerViewBreakfast
@@ -137,6 +145,7 @@ id recyclerViewCart
 id recyclerViewDinner
 id recyclerViewLunch
 id recyclerViewSnacks
+id smoothie_zone_card
 id splash_logo
 id text_account_prompt
 id text_continue_with
@@ -176,6 +185,7 @@ layout item_profile_menu_payment
 layout item_profile_menu_personal_info
 layout item_profile_menu_reviews
 layout item_profile_menu_settings
+layout open
 layout product_card_item
 menu bottom_nav_menu
 mipmap ic_launcher

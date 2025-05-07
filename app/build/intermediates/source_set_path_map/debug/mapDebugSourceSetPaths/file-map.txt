@@ -1,49 +1,49 @@
-com.example.unibites.app-jetified-core-common-2.0.3-0 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/046a260873cfcb7e243d75670e21f28d/transformed/jetified-core-common-2.0.3/res
-com.example.unibites.app-lifecycle-runtime-2.6.2-1 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/061c1e06c295b3258f081743cb8b7957/transformed/lifecycle-runtime-2.6.2/res
-com.example.unibites.app-jetified-emoji2-1.2.0-2 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/res
-com.example.unibites.app-lifecycle-viewmodel-2.6.2-3 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/1f941fbaa8d138d60729dceebcbc1bf7/transformed/lifecycle-viewmodel-2.6.2/res
-com.example.unibites.app-jetified-tracing-1.2.0-4 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/2aaef3f5454e138c4c95a8354bbb0438/transformed/jetified-tracing-1.2.0/res
-com.example.unibites.app-lifecycle-livedata-core-2.6.2-5 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/2ddf329396d92c3def72649a757b0765/transformed/lifecycle-livedata-core-2.6.2/res
-com.example.unibites.app-jetified-appcompat-resources-1.6.1-6 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/2de70d201e70ef600a831f46c96aad2c/transformed/jetified-appcompat-resources-1.6.1/res
-com.example.unibites.app-jetified-credentials-play-services-auth-1.5.0-7 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/res
-com.example.unibites.app-jetified-startup-runtime-1.1.1-8 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/35e7978a8423ebd4da9fc809c2fd9efa/transformed/jetified-startup-runtime-1.1.1/res
-com.example.unibites.app-coordinatorlayout-1.1.0-9 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/3de8fbefc3e4ea318ce05cc644054ebb/transformed/coordinatorlayout-1.1.0/res
-com.example.unibites.app-jetified-savedstate-1.2.1-10 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/457cddf85095db54294654eabab41c8d/transformed/jetified-savedstate-1.2.1/res
-com.example.unibites.app-jetified-play-services-basement-18.5.0-11 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/4617ace39b9b337a798e1fa427474ad1/transformed/jetified-play-services-basement-18.5.0/res
-com.example.unibites.app-jetified-core-viewtree-1.0.0-12 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/48905ab77b19e7225f00cec7000f1d18/transformed/jetified-core-viewtree-1.0.0/res
-com.example.unibites.app-jetified-annotation-experimental-1.4.1-13 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/4c6f68e52df1370272dd3a50d8e04be1/transformed/jetified-annotation-experimental-1.4.1/res
-com.example.unibites.app-jetified-ads-adservices-1.1.0-beta11-14 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/52061a664654c81ed845498e0950439a/transformed/jetified-ads-adservices-1.1.0-beta11/res
-com.example.unibites.app-jetified-firebase-common-21.0.0-15 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/res
-com.example.unibites.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-16 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/5af41b0621f47312277ee23b667251ae/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/res
-com.example.unibites.app-constraintlayout-2.1.4-17 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/5e336bdee22db0df824f94bcb9325797/transformed/constraintlayout-2.1.4/res
-com.example.unibites.app-transition-1.2.0-18 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/6bd7bd5d93fd4a0d5febaff196e19c61/transformed/transition-1.2.0/res
-com.example.unibites.app-material-1.10.0-19 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/7b8a337f4209eb12e31cafd3c07563fc/transformed/material-1.10.0/res
-com.example.unibites.app-jetified-activity-1.10.1-20 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/7d98f09f33b96ada521bf0f70f42f5c0/transformed/jetified-activity-1.10.1/res
-com.example.unibites.app-jetified-profileinstaller-1.4.0-21 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/res
-com.example.unibites.app-jetified-play-services-base-18.5.0-22 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/8339d6efc7960d9cc6c235e8d21a9468/transformed/jetified-play-services-base-18.5.0/res
-com.example.unibites.app-core-1.15.0-23 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/res
-com.example.unibites.app-drawerlayout-1.1.1-24 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/8a04b5896bcf4f39a84284fdf08537f5/transformed/drawerlayout-1.1.1/res
-com.example.unibites.app-jetified-play-services-auth-21.1.1-25 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/res
-com.example.unibites.app-jetified-lifecycle-process-2.6.2-26 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/8b7108744ecb682a1dcddb3410034dcf/transformed/jetified-lifecycle-process-2.6.2/res
-com.example.unibites.app-biometric-1.1.0-27 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/a340f0f73e53e730e1dcf954ce7274f7/transformed/biometric-1.1.0/res
-com.example.unibites.app-jetified-emoji2-views-helper-1.2.0-28 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/aa5bea6607c6afe514fdf7bcc63907e6/transformed/jetified-emoji2-views-helper-1.2.0/res
-com.example.unibites.app-swiperefreshlayout-1.1.0-29 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/ae53368d7a9731be6f56acc489c33d0d/transformed/swiperefreshlayout-1.1.0/res
-com.example.unibites.app-jetified-credentials-1.5.0-30 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/b10152eb226aeb5f8b8545d562e1f25a/transformed/jetified-credentials-1.5.0/res
-com.example.unibites.app-jetified-ads-adservices-java-1.1.0-beta11-31 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/b425785cac57b720f26e69f8789530b0/transformed/jetified-ads-adservices-java-1.1.0-beta11/res
-com.example.unibites.app-jetified-viewpager2-1.0.0-32 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/bb8a464b85570ffcdc5e45fab759d117/transformed/jetified-viewpager2-1.0.0/res
-com.example.unibites.app-fragment-1.5.7-33 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/bc5b69fb85e44e206775cc4960d50355/transformed/fragment-1.5.7/res
-com.example.unibites.app-jetified-glide-4.16.0-34 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/e013e765bc4f90143518cd21e3898335/transformed/jetified-glide-4.16.0/res
-com.example.unibites.app-appcompat-1.6.1-35 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/efd2a7c5a7b4cf5137db4e1e6a7d038a/transformed/appcompat-1.6.1/res
-com.example.unibites.app-cardview-1.0.0-36 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/f0241817fa73a374c267d1d28b5efeeb/transformed/cardview-1.0.0/res
-com.example.unibites.app-core-runtime-2.2.0-37 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/f1663cc1a2a66672a3e8c66d4abf2958/transformed/core-runtime-2.2.0/res
-com.example.unibites.app-recyclerview-1.1.0-38 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/f5414b62af98605b95747328df4ba279/transformed/recyclerview-1.1.0/res
-com.example.unibites.app-jetified-core-ktx-1.15.0-39 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/f9ebfcbbf0d1bfac3a0df42ea3b7ba49/transformed/jetified-core-ktx-1.15.0/res
-com.example.unibites.app-browser-1.4.0-40 /Users/Lenovo/Desktop/Unibites 2/caches/8.11.1/transforms/fc928bfe91bc66bf1b073770dbafe0c3/transformed/browser-1.4.0/res
-com.example.unibites.app-pngs-41 /Users/Lenovo/Downloads/unibites_new build/app/build/generated/res/pngs/debug
-com.example.unibites.app-res-42 /Users/Lenovo/Downloads/unibites_new build/app/build/generated/res/processDebugGoogleServices
-com.example.unibites.app-resValues-43 /Users/Lenovo/Downloads/unibites_new build/app/build/generated/res/resValues/debug
-com.example.unibites.app-packageDebugResources-44 /Users/Lenovo/Downloads/unibites_new build/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.unibites.app-packageDebugResources-45 /Users/Lenovo/Downloads/unibites_new build/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.unibites.app-debug-46 /Users/Lenovo/Downloads/unibites_new build/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.example.unibites.app-debug-47 /Users/Lenovo/Downloads/unibites_new build/app/src/debug/res
-com.example.unibites.app-main-48 /Users/Lenovo/Downloads/unibites_new build/app/src/main/res
+com.example.unibites.app-jetified-core-common-2.0.3-0 /Users/Lenovo/.gradle/caches/8.11.1/transforms/046a260873cfcb7e243d75670e21f28d/transformed/jetified-core-common-2.0.3/res
+com.example.unibites.app-lifecycle-runtime-2.6.2-1 /Users/Lenovo/.gradle/caches/8.11.1/transforms/061c1e06c295b3258f081743cb8b7957/transformed/lifecycle-runtime-2.6.2/res
+com.example.unibites.app-jetified-emoji2-1.2.0-2 /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/res
+com.example.unibites.app-lifecycle-viewmodel-2.6.2-3 /Users/Lenovo/.gradle/caches/8.11.1/transforms/1f941fbaa8d138d60729dceebcbc1bf7/transformed/lifecycle-viewmodel-2.6.2/res
+com.example.unibites.app-jetified-tracing-1.2.0-4 /Users/Lenovo/.gradle/caches/8.11.1/transforms/2aaef3f5454e138c4c95a8354bbb0438/transformed/jetified-tracing-1.2.0/res
+com.example.unibites.app-lifecycle-livedata-core-2.6.2-5 /Users/Lenovo/.gradle/caches/8.11.1/transforms/2ddf329396d92c3def72649a757b0765/transformed/lifecycle-livedata-core-2.6.2/res
+com.example.unibites.app-jetified-appcompat-resources-1.6.1-6 /Users/Lenovo/.gradle/caches/8.11.1/transforms/2de70d201e70ef600a831f46c96aad2c/transformed/jetified-appcompat-resources-1.6.1/res
+com.example.unibites.app-jetified-credentials-play-services-auth-1.5.0-7 /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/res
+com.example.unibites.app-jetified-startup-runtime-1.1.1-8 /Users/Lenovo/.gradle/caches/8.11.1/transforms/35e7978a8423ebd4da9fc809c2fd9efa/transformed/jetified-startup-runtime-1.1.1/res
+com.example.unibites.app-coordinatorlayout-1.1.0-9 /Users/Lenovo/.gradle/caches/8.11.1/transforms/3de8fbefc3e4ea318ce05cc644054ebb/transformed/coordinatorlayout-1.1.0/res
+com.example.unibites.app-jetified-savedstate-1.2.1-10 /Users/Lenovo/.gradle/caches/8.11.1/transforms/457cddf85095db54294654eabab41c8d/transformed/jetified-savedstate-1.2.1/res
+com.example.unibites.app-jetified-play-services-basement-18.5.0-11 /Users/Lenovo/.gradle/caches/8.11.1/transforms/4617ace39b9b337a798e1fa427474ad1/transformed/jetified-play-services-basement-18.5.0/res
+com.example.unibites.app-jetified-core-viewtree-1.0.0-12 /Users/Lenovo/.gradle/caches/8.11.1/transforms/48905ab77b19e7225f00cec7000f1d18/transformed/jetified-core-viewtree-1.0.0/res
+com.example.unibites.app-jetified-annotation-experimental-1.4.1-13 /Users/Lenovo/.gradle/caches/8.11.1/transforms/4c6f68e52df1370272dd3a50d8e04be1/transformed/jetified-annotation-experimental-1.4.1/res
+com.example.unibites.app-jetified-ads-adservices-1.1.0-beta11-14 /Users/Lenovo/.gradle/caches/8.11.1/transforms/52061a664654c81ed845498e0950439a/transformed/jetified-ads-adservices-1.1.0-beta11/res
+com.example.unibites.app-jetified-firebase-common-21.0.0-15 /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/res
+com.example.unibites.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-16 /Users/Lenovo/.gradle/caches/8.11.1/transforms/5af41b0621f47312277ee23b667251ae/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/res
+com.example.unibites.app-constraintlayout-2.1.4-17 /Users/Lenovo/.gradle/caches/8.11.1/transforms/5e336bdee22db0df824f94bcb9325797/transformed/constraintlayout-2.1.4/res
+com.example.unibites.app-transition-1.2.0-18 /Users/Lenovo/.gradle/caches/8.11.1/transforms/6bd7bd5d93fd4a0d5febaff196e19c61/transformed/transition-1.2.0/res
+com.example.unibites.app-material-1.10.0-19 /Users/Lenovo/.gradle/caches/8.11.1/transforms/7b8a337f4209eb12e31cafd3c07563fc/transformed/material-1.10.0/res
+com.example.unibites.app-jetified-activity-1.10.1-20 /Users/Lenovo/.gradle/caches/8.11.1/transforms/7d98f09f33b96ada521bf0f70f42f5c0/transformed/jetified-activity-1.10.1/res
+com.example.unibites.app-jetified-profileinstaller-1.4.0-21 /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/res
+com.example.unibites.app-jetified-play-services-base-18.5.0-22 /Users/Lenovo/.gradle/caches/8.11.1/transforms/8339d6efc7960d9cc6c235e8d21a9468/transformed/jetified-play-services-base-18.5.0/res
+com.example.unibites.app-core-1.15.0-23 /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/res
+com.example.unibites.app-drawerlayout-1.1.1-24 /Users/Lenovo/.gradle/caches/8.11.1/transforms/8a04b5896bcf4f39a84284fdf08537f5/transformed/drawerlayout-1.1.1/res
+com.example.unibites.app-jetified-play-services-auth-21.1.1-25 /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/res
+com.example.unibites.app-jetified-lifecycle-process-2.6.2-26 /Users/Lenovo/.gradle/caches/8.11.1/transforms/8b7108744ecb682a1dcddb3410034dcf/transformed/jetified-lifecycle-process-2.6.2/res
+com.example.unibites.app-biometric-1.1.0-27 /Users/Lenovo/.gradle/caches/8.11.1/transforms/a340f0f73e53e730e1dcf954ce7274f7/transformed/biometric-1.1.0/res
+com.example.unibites.app-jetified-emoji2-views-helper-1.2.0-28 /Users/Lenovo/.gradle/caches/8.11.1/transforms/aa5bea6607c6afe514fdf7bcc63907e6/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.example.unibites.app-swiperefreshlayout-1.1.0-29 /Users/Lenovo/.gradle/caches/8.11.1/transforms/ae53368d7a9731be6f56acc489c33d0d/transformed/swiperefreshlayout-1.1.0/res
+com.example.unibites.app-jetified-credentials-1.5.0-30 /Users/Lenovo/.gradle/caches/8.11.1/transforms/b10152eb226aeb5f8b8545d562e1f25a/transformed/jetified-credentials-1.5.0/res
+com.example.unibites.app-jetified-ads-adservices-java-1.1.0-beta11-31 /Users/Lenovo/.gradle/caches/8.11.1/transforms/b425785cac57b720f26e69f8789530b0/transformed/jetified-ads-adservices-java-1.1.0-beta11/res
+com.example.unibites.app-jetified-viewpager2-1.0.0-32 /Users/Lenovo/.gradle/caches/8.11.1/transforms/bb8a464b85570ffcdc5e45fab759d117/transformed/jetified-viewpager2-1.0.0/res
+com.example.unibites.app-fragment-1.5.7-33 /Users/Lenovo/.gradle/caches/8.11.1/transforms/bc5b69fb85e44e206775cc4960d50355/transformed/fragment-1.5.7/res
+com.example.unibites.app-jetified-glide-4.16.0-34 /Users/Lenovo/.gradle/caches/8.11.1/transforms/e013e765bc4f90143518cd21e3898335/transformed/jetified-glide-4.16.0/res
+com.example.unibites.app-appcompat-1.6.1-35 /Users/Lenovo/.gradle/caches/8.11.1/transforms/efd2a7c5a7b4cf5137db4e1e6a7d038a/transformed/appcompat-1.6.1/res
+com.example.unibites.app-cardview-1.0.0-36 /Users/Lenovo/.gradle/caches/8.11.1/transforms/f0241817fa73a374c267d1d28b5efeeb/transformed/cardview-1.0.0/res
+com.example.unibites.app-core-runtime-2.2.0-37 /Users/Lenovo/.gradle/caches/8.11.1/transforms/f1663cc1a2a66672a3e8c66d4abf2958/transformed/core-runtime-2.2.0/res
+com.example.unibites.app-recyclerview-1.1.0-38 /Users/Lenovo/.gradle/caches/8.11.1/transforms/f5414b62af98605b95747328df4ba279/transformed/recyclerview-1.1.0/res
+com.example.unibites.app-jetified-core-ktx-1.15.0-39 /Users/Lenovo/.gradle/caches/8.11.1/transforms/f9ebfcbbf0d1bfac3a0df42ea3b7ba49/transformed/jetified-core-ktx-1.15.0/res
+com.example.unibites.app-browser-1.4.0-40 /Users/Lenovo/.gradle/caches/8.11.1/transforms/fc928bfe91bc66bf1b073770dbafe0c3/transformed/browser-1.4.0/res
+com.example.unibites.app-pngs-41 /Users/Lenovo/Desktop/mad sem 4/android studio projects/Unibites--A-all-in-one-for-food-needs/app/build/generated/res/pngs/debug
+com.example.unibites.app-res-42 /Users/Lenovo/Desktop/mad sem 4/android studio projects/Unibites--A-all-in-one-for-food-needs/app/build/generated/res/processDebugGoogleServices
+com.example.unibites.app-resValues-43 /Users/Lenovo/Desktop/mad sem 4/android studio projects/Unibites--A-all-in-one-for-food-needs/app/build/generated/res/resValues/debug
+com.example.unibites.app-packageDebugResources-44 /Users/Lenovo/Desktop/mad sem 4/android studio projects/Unibites--A-all-in-one-for-food-needs/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.unibites.app-packageDebugResources-45 /Users/Lenovo/Desktop/mad sem 4/android studio projects/Unibites--A-all-in-one-for-food-needs/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.unibites.app-debug-46 /Users/Lenovo/Desktop/mad sem 4/android studio projects/Unibites--A-all-in-one-for-food-needs/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.unibites.app-debug-47 /Users/Lenovo/Desktop/mad sem 4/android studio projects/Unibites--A-all-in-one-for-food-needs/app/src/debug/res
+com.example.unibites.app-main-48 /Users/Lenovo/Desktop/mad sem 4/android studio projects/Unibites--A-all-in-one-for-food-needs/app/src/main/res
