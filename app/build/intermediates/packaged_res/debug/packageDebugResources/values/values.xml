@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_brown_bg">#FFB74D</color>
+    <color name="google_button_bg_color">#FFF7EE</color>
+    <color name="input_bg_color">#FFF0E4</color>
+    <color name="link_color">#4285F4</color>
+    <color name="login_button_bg_color">#FF7701</color>
+    <color name="medium_grey">#FF888888</color>
+    <color name="primary_text_color">#333333</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="secondary_text_color">#757575</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Unibites</string>
+    <string name="back">Back</string>
+    <string name="default_web_client_id" translatable="false">687704802380-c97knd6enrtt8n1gvsp4o1fum11kk5gn.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">687704802380</string>
+    <string name="google_api_key" translatable="false">AIzaSyAFgZ5JyjE620YnrPIzppB5bq5KrDMNo1c</string>
+    <string name="google_app_id" translatable="false">1:687704802380:android:a9c02e3d40fdffec10e0e9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFgZ5JyjE620YnrPIzppB5bq5KrDMNo1c</string>
+    <string name="google_storage_bucket" translatable="false">univanibites.firebasestorage.app</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">univanibites</string>
+    <style name="Base.Theme.Unibites" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Unibites" parent="Base.Theme.Unibites"/>
+</resources>

@@ -1,0 +1,845 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.android.material:material:1.10.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/7b8a337f4209eb12e31cafd3c07563fc/transformed/material-1.10.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5e336bdee22db0df824f94bcb9325797/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2de70d201e70ef600a831f46c96aad2c/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:17:1-52:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/72d6c0cdeb8fef390d7c20b0bb298810/transformed/jetified-googleid-1.1.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b10152eb226aeb5f8b8545d562e1f25a/transformed/jetified-credentials-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.biometric:biometric:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a340f0f73e53e730e1dcf954ce7274f7/transformed/biometric-1.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/efd2a7c5a7b4cf5137db4e1e6a7d038a/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-analytics:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4cdf15462961db22268435193cc4c295/transformed/jetified-firebase-analytics-22.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/e013e765bc4f90143518cd21e3898335/transformed/jetified-glide-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ae53368d7a9731be6f56acc489c33d0d/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bb8a464b85570ffcdc5e45fab759d117/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d3d50da18fafa10df14269f3fd220ef3/transformed/jetified-play-services-auth-blockstore-16.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/3eeb37d45a9e0a4497f783980d8e95d3/transformed/jetified-play-services-fido-21.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-identity-credentials:16.0.0-alpha02] /Users/Lenovo/.gradle/caches/8.11.1/transforms/875c39b179914d3ab8b4ab5e167ce08b/transformed/jetified-play-services-identity-credentials-16.0.0-alpha02/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/52f98132abbe159b60d1f9f4426f4cfc/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f85da530b05f1075c90b440716bd9ba7/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ae203b676b4d324a402aadbf8f0045aa/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ab1d096e9ccafa4b1890628ce99850ae/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/6177d31fa525a1911e18a252c78d06dc/transformed/jetified-play-services-measurement-sdk-22.4.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8339d6efc7960d9cc6c235e8d21a9468/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2323e1f35794a4c64822e64ea7520a8b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bebae25f42994320f9ea707bab3b7686/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06cc06618b085b69456981059afdf968/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1fa88447e6ab21647e9099991f045d7f/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/aa5bea6607c6afe514fdf7bcc63907e6/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8a04b5896bcf4f39a84284fdf08537f5/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/3de8fbefc3e4ea318ce05cc644054ebb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/6b88c2bd4f306fdc4d5d4f5870da47aa/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/6bd7bd5d93fd4a0d5febaff196e19c61/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5d5f0dcd6147134cea22edf7e26f8760/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/081b54fe264cd7672d6fa19905d02cc6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/fc928bfe91bc66bf1b073770dbafe0c3/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f5414b62af98605b95747328df4ba279/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/fd617e2ec24b4ca827b40d2bd578942b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1e1428a988a4b7e7f1a59aa738a324ab/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a984f05d4207abbb1f8d3c86aa812093/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/452e9db4c3d62a7bf3258199b59f8e75/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b425785cac57b720f26e69f8789530b0/transformed/jetified-ads-adservices-java-1.1.0-beta11/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/Lenovo/.gradle/caches/8.11.1/transforms/52061a664654c81ed845498e0950439a/transformed/jetified-ads-adservices-1.1.0-beta11/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f9ebfcbbf0d1bfac3a0df42ea3b7ba49/transformed/jetified-core-ktx-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/72a2be0c52f431b076379d35f5366c74/transformed/loader-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1f941fbaa8d138d60729dceebcbc1bf7/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8b7108744ecb682a1dcddb3410034dcf/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2ddf329396d92c3def72649a757b0765/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/061c1e06c295b3258f081743cb8b7957/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5af41b0621f47312277ee23b667251ae/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/457cddf85095db54294654eabab41c8d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/e8caf74f2c40053db63d93f3795d5527/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/49b2ff571b269514ce0ef0fad48d69e7/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a011cbf465fdaa6364d710e59ece3e99/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d79e9562658f41ec9ce4cb09d2e37136/transformed/jetified-play-services-measurement-base-22.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/aff041bbb476e949c01fc9ddd7702790/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4617ace39b9b337a798e1fa427474ad1/transformed/jetified-play-services-basement-18.5.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bc5b69fb85e44e206775cc4960d50355/transformed/fragment-1.5.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.10.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/7d98f09f33b96ada521bf0f70f42f5c0/transformed/jetified-activity-1.10.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bc9b2bb77abc725da74337a1cb68afa6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f0241817fa73a374c267d1d28b5efeeb/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ec1e00acaba22ce9d30f51c897324a54/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d426fc13d5946470fd89c2561ef7dd6e/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d77b6a5029ed789b527f563e6a343150/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/aecdcaf378bcc4b2414b62b428d64e78/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/63915dba0f5fdddeb23321057fb41a79/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35e7978a8423ebd4da9fc809c2fd9efa/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2aaef3f5454e138c4c95a8354bbb0438/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ecd58559adbd0aa88545ec13bd350531/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/05cb3f17bf38c9a8676ca678722f7122/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1f28f78f6fd7b223d77adca3301251ff/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f1663cc1a2a66672a3e8c66d4abf2958/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/48905ab77b19e7225f00cec7000f1d18/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4c6f68e52df1370272dd3a50d8e04be1/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06659fb944bd278bda65da0458f83803/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/95052628dbde1c382fe5faed733f1197/transformed/jetified-protolite-well-known-types-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/Lenovo/.gradle/caches/8.11.1/transforms/046a260873cfcb7e243d75670e21f28d/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:5:5-39:19
+INJECTED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:5:5-39:19
+MERGED from [com.google.android.material:material:1.10.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/7b8a337f4209eb12e31cafd3c07563fc/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/7b8a337f4209eb12e31cafd3c07563fc/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5e336bdee22db0df824f94bcb9325797/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5e336bdee22db0df824f94bcb9325797/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:28:5-73:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:23:5-50:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:23:5-50:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4cdf15462961db22268435193cc4c295/transformed/jetified-firebase-analytics-22.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4cdf15462961db22268435193cc4c295/transformed/jetified-firebase-analytics-22.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d3d50da18fafa10df14269f3fd220ef3/transformed/jetified-play-services-auth-blockstore-16.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d3d50da18fafa10df14269f3fd220ef3/transformed/jetified-play-services-auth-blockstore-16.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/3eeb37d45a9e0a4497f783980d8e95d3/transformed/jetified-play-services-fido-21.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/3eeb37d45a9e0a4497f783980d8e95d3/transformed/jetified-play-services-fido-21.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/52f98132abbe159b60d1f9f4426f4cfc/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/52f98132abbe159b60d1f9f4426f4cfc/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/6177d31fa525a1911e18a252c78d06dc/transformed/jetified-play-services-measurement-sdk-22.4.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/6177d31fa525a1911e18a252c78d06dc/transformed/jetified-play-services-measurement-sdk-22.4.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8339d6efc7960d9cc6c235e8d21a9468/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8339d6efc7960d9cc6c235e8d21a9468/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2323e1f35794a4c64822e64ea7520a8b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2323e1f35794a4c64822e64ea7520a8b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bebae25f42994320f9ea707bab3b7686/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bebae25f42994320f9ea707bab3b7686/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1fa88447e6ab21647e9099991f045d7f/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1fa88447e6ab21647e9099991f045d7f/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a984f05d4207abbb1f8d3c86aa812093/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a984f05d4207abbb1f8d3c86aa812093/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/Lenovo/.gradle/caches/8.11.1/transforms/52061a664654c81ed845498e0950439a/transformed/jetified-ads-adservices-1.1.0-beta11/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/Lenovo/.gradle/caches/8.11.1/transforms/52061a664654c81ed845498e0950439a/transformed/jetified-ads-adservices-1.1.0-beta11/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8b7108744ecb682a1dcddb3410034dcf/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8b7108744ecb682a1dcddb3410034dcf/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/49b2ff571b269514ce0ef0fad48d69e7/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/49b2ff571b269514ce0ef0fad48d69e7/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a011cbf465fdaa6364d710e59ece3e99/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a011cbf465fdaa6364d710e59ece3e99/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d79e9562658f41ec9ce4cb09d2e37136/transformed/jetified-play-services-measurement-base-22.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d79e9562658f41ec9ce4cb09d2e37136/transformed/jetified-play-services-measurement-base-22.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/aff041bbb476e949c01fc9ddd7702790/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/aff041bbb476e949c01fc9ddd7702790/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4617ace39b9b337a798e1fa427474ad1/transformed/jetified-play-services-basement-18.5.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4617ace39b9b337a798e1fa427474ad1/transformed/jetified-play-services-basement-18.5.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35e7978a8423ebd4da9fc809c2fd9efa/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35e7978a8423ebd4da9fc809c2fd9efa/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ecd58559adbd0aa88545ec13bd350531/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ecd58559adbd0aa88545ec13bd350531/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/Lenovo/.gradle/caches/8.11.1/transforms/046a260873cfcb7e243d75670e21f28d/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/Lenovo/.gradle/caches/8.11.1/transforms/046a260873cfcb7e243d75670e21f28d/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:13:9-46
+	android:dataExtractionRules
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.example.unibites.PaymentActivity
+ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:16:13-44
+activity#com.example.unibites.SignUpActivity
+ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:19:13-43
+activity#com.example.unibites.LoginActivity
+ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:22:13-42
+activity#com.example.unibites.SplashActivity
+ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:24:9-33:20
+	android:exported
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:26:13-36
+	android:theme
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:27:13-63
+	android:name
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:25:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:31:27-74
+activity#com.example.unibites.MainActivity
+ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:34:9-38:20
+	android:exported
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml:35:13-41
+uses-sdk
+INJECTED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.10.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/7b8a337f4209eb12e31cafd3c07563fc/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/7b8a337f4209eb12e31cafd3c07563fc/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5e336bdee22db0df824f94bcb9325797/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5e336bdee22db0df824f94bcb9325797/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2de70d201e70ef600a831f46c96aad2c/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2de70d201e70ef600a831f46c96aad2c/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/72d6c0cdeb8fef390d7c20b0bb298810/transformed/jetified-googleid-1.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/72d6c0cdeb8fef390d7c20b0bb298810/transformed/jetified-googleid-1.1.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b10152eb226aeb5f8b8545d562e1f25a/transformed/jetified-credentials-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b10152eb226aeb5f8b8545d562e1f25a/transformed/jetified-credentials-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.biometric:biometric:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a340f0f73e53e730e1dcf954ce7274f7/transformed/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a340f0f73e53e730e1dcf954ce7274f7/transformed/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/efd2a7c5a7b4cf5137db4e1e6a7d038a/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/efd2a7c5a7b4cf5137db4e1e6a7d038a/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4cdf15462961db22268435193cc4c295/transformed/jetified-firebase-analytics-22.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4cdf15462961db22268435193cc4c295/transformed/jetified-firebase-analytics-22.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/e013e765bc4f90143518cd21e3898335/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/e013e765bc4f90143518cd21e3898335/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ae53368d7a9731be6f56acc489c33d0d/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ae53368d7a9731be6f56acc489c33d0d/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bb8a464b85570ffcdc5e45fab759d117/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bb8a464b85570ffcdc5e45fab759d117/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d3d50da18fafa10df14269f3fd220ef3/transformed/jetified-play-services-auth-blockstore-16.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d3d50da18fafa10df14269f3fd220ef3/transformed/jetified-play-services-auth-blockstore-16.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/3eeb37d45a9e0a4497f783980d8e95d3/transformed/jetified-play-services-fido-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/3eeb37d45a9e0a4497f783980d8e95d3/transformed/jetified-play-services-fido-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-identity-credentials:16.0.0-alpha02] /Users/Lenovo/.gradle/caches/8.11.1/transforms/875c39b179914d3ab8b4ab5e167ce08b/transformed/jetified-play-services-identity-credentials-16.0.0-alpha02/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-identity-credentials:16.0.0-alpha02] /Users/Lenovo/.gradle/caches/8.11.1/transforms/875c39b179914d3ab8b4ab5e167ce08b/transformed/jetified-play-services-identity-credentials-16.0.0-alpha02/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/52f98132abbe159b60d1f9f4426f4cfc/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/52f98132abbe159b60d1f9f4426f4cfc/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f85da530b05f1075c90b440716bd9ba7/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f85da530b05f1075c90b440716bd9ba7/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ae203b676b4d324a402aadbf8f0045aa/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ae203b676b4d324a402aadbf8f0045aa/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ab1d096e9ccafa4b1890628ce99850ae/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ab1d096e9ccafa4b1890628ce99850ae/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/6177d31fa525a1911e18a252c78d06dc/transformed/jetified-play-services-measurement-sdk-22.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/6177d31fa525a1911e18a252c78d06dc/transformed/jetified-play-services-measurement-sdk-22.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8339d6efc7960d9cc6c235e8d21a9468/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8339d6efc7960d9cc6c235e8d21a9468/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2323e1f35794a4c64822e64ea7520a8b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2323e1f35794a4c64822e64ea7520a8b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bebae25f42994320f9ea707bab3b7686/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bebae25f42994320f9ea707bab3b7686/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06cc06618b085b69456981059afdf968/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06cc06618b085b69456981059afdf968/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1fa88447e6ab21647e9099991f045d7f/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1fa88447e6ab21647e9099991f045d7f/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/aa5bea6607c6afe514fdf7bcc63907e6/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/aa5bea6607c6afe514fdf7bcc63907e6/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8a04b5896bcf4f39a84284fdf08537f5/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8a04b5896bcf4f39a84284fdf08537f5/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/3de8fbefc3e4ea318ce05cc644054ebb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/3de8fbefc3e4ea318ce05cc644054ebb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/6b88c2bd4f306fdc4d5d4f5870da47aa/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/6b88c2bd4f306fdc4d5d4f5870da47aa/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/6bd7bd5d93fd4a0d5febaff196e19c61/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/6bd7bd5d93fd4a0d5febaff196e19c61/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5d5f0dcd6147134cea22edf7e26f8760/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5d5f0dcd6147134cea22edf7e26f8760/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/081b54fe264cd7672d6fa19905d02cc6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/081b54fe264cd7672d6fa19905d02cc6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/fc928bfe91bc66bf1b073770dbafe0c3/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/fc928bfe91bc66bf1b073770dbafe0c3/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f5414b62af98605b95747328df4ba279/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f5414b62af98605b95747328df4ba279/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/fd617e2ec24b4ca827b40d2bd578942b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/fd617e2ec24b4ca827b40d2bd578942b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1e1428a988a4b7e7f1a59aa738a324ab/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1e1428a988a4b7e7f1a59aa738a324ab/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a984f05d4207abbb1f8d3c86aa812093/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a984f05d4207abbb1f8d3c86aa812093/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/452e9db4c3d62a7bf3258199b59f8e75/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/452e9db4c3d62a7bf3258199b59f8e75/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b425785cac57b720f26e69f8789530b0/transformed/jetified-ads-adservices-java-1.1.0-beta11/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b425785cac57b720f26e69f8789530b0/transformed/jetified-ads-adservices-java-1.1.0-beta11/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/Lenovo/.gradle/caches/8.11.1/transforms/52061a664654c81ed845498e0950439a/transformed/jetified-ads-adservices-1.1.0-beta11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/Lenovo/.gradle/caches/8.11.1/transforms/52061a664654c81ed845498e0950439a/transformed/jetified-ads-adservices-1.1.0-beta11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f9ebfcbbf0d1bfac3a0df42ea3b7ba49/transformed/jetified-core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f9ebfcbbf0d1bfac3a0df42ea3b7ba49/transformed/jetified-core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/72a2be0c52f431b076379d35f5366c74/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/72a2be0c52f431b076379d35f5366c74/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1f941fbaa8d138d60729dceebcbc1bf7/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1f941fbaa8d138d60729dceebcbc1bf7/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8b7108744ecb682a1dcddb3410034dcf/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8b7108744ecb682a1dcddb3410034dcf/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2ddf329396d92c3def72649a757b0765/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2ddf329396d92c3def72649a757b0765/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/061c1e06c295b3258f081743cb8b7957/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/061c1e06c295b3258f081743cb8b7957/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5af41b0621f47312277ee23b667251ae/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5af41b0621f47312277ee23b667251ae/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/457cddf85095db54294654eabab41c8d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/457cddf85095db54294654eabab41c8d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/e8caf74f2c40053db63d93f3795d5527/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/e8caf74f2c40053db63d93f3795d5527/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/49b2ff571b269514ce0ef0fad48d69e7/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/49b2ff571b269514ce0ef0fad48d69e7/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a011cbf465fdaa6364d710e59ece3e99/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a011cbf465fdaa6364d710e59ece3e99/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d79e9562658f41ec9ce4cb09d2e37136/transformed/jetified-play-services-measurement-base-22.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d79e9562658f41ec9ce4cb09d2e37136/transformed/jetified-play-services-measurement-base-22.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/aff041bbb476e949c01fc9ddd7702790/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/aff041bbb476e949c01fc9ddd7702790/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4617ace39b9b337a798e1fa427474ad1/transformed/jetified-play-services-basement-18.5.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4617ace39b9b337a798e1fa427474ad1/transformed/jetified-play-services-basement-18.5.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bc5b69fb85e44e206775cc4960d50355/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bc5b69fb85e44e206775cc4960d50355/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.10.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/7d98f09f33b96ada521bf0f70f42f5c0/transformed/jetified-activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/7d98f09f33b96ada521bf0f70f42f5c0/transformed/jetified-activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bc9b2bb77abc725da74337a1cb68afa6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/bc9b2bb77abc725da74337a1cb68afa6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f0241817fa73a374c267d1d28b5efeeb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f0241817fa73a374c267d1d28b5efeeb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ec1e00acaba22ce9d30f51c897324a54/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ec1e00acaba22ce9d30f51c897324a54/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d426fc13d5946470fd89c2561ef7dd6e/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d426fc13d5946470fd89c2561ef7dd6e/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d77b6a5029ed789b527f563e6a343150/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/d77b6a5029ed789b527f563e6a343150/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/aecdcaf378bcc4b2414b62b428d64e78/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/aecdcaf378bcc4b2414b62b428d64e78/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/63915dba0f5fdddeb23321057fb41a79/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/63915dba0f5fdddeb23321057fb41a79/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35e7978a8423ebd4da9fc809c2fd9efa/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35e7978a8423ebd4da9fc809c2fd9efa/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2aaef3f5454e138c4c95a8354bbb0438/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2aaef3f5454e138c4c95a8354bbb0438/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ecd58559adbd0aa88545ec13bd350531/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/ecd58559adbd0aa88545ec13bd350531/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/05cb3f17bf38c9a8676ca678722f7122/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/05cb3f17bf38c9a8676ca678722f7122/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1f28f78f6fd7b223d77adca3301251ff/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1f28f78f6fd7b223d77adca3301251ff/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f1663cc1a2a66672a3e8c66d4abf2958/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/f1663cc1a2a66672a3e8c66d4abf2958/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/48905ab77b19e7225f00cec7000f1d18/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/48905ab77b19e7225f00cec7000f1d18/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4c6f68e52df1370272dd3a50d8e04be1/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4c6f68e52df1370272dd3a50d8e04be1/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06659fb944bd278bda65da0458f83803/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06659fb944bd278bda65da0458f83803/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/95052628dbde1c382fe5faed733f1197/transformed/jetified-protolite-well-known-types-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/95052628dbde1c382fe5faed733f1197/transformed/jetified-protolite-well-known-types-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/Lenovo/.gradle/caches/8.11.1/transforms/046a260873cfcb7e243d75670e21f28d/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/Lenovo/.gradle/caches/8.11.1/transforms/046a260873cfcb7e243d75670e21f28d/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Lenovo/Downloads/unibites_new build/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06cc06618b085b69456981059afdf968/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06cc06618b085b69456981059afdf968/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06cc06618b085b69456981059afdf968/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06cc06618b085b69456981059afdf968/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06659fb944bd278bda65da0458f83803/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06659fb944bd278bda65da0458f83803/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2323e1f35794a4c64822e64ea7520a8b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2323e1f35794a4c64822e64ea7520a8b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a51beb9c213601b843bbb3499429fe62/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:70:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:35:13-76
+activity#androidx.credentials.playservices.IdentityCredentialApiHiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:42:9-49:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:47:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:46:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:44:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:48:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35a75563f062d33b62f13fa240ef95bb/transformed/jetified-credentials-play-services-auth-1.5.0/AndroidManifest.xml:43:13-97
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [androidx.biometric:biometric:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a340f0f73e53e730e1dcf954ce7274f7/transformed/biometric-1.1.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a340f0f73e53e730e1dcf954ce7274f7/transformed/biometric-1.1.0/AndroidManifest.xml:24:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [androidx.biometric:biometric:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a340f0f73e53e730e1dcf954ce7274f7/transformed/biometric-1.1.0/AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a340f0f73e53e730e1dcf954ce7274f7/transformed/biometric-1.1.0/AndroidManifest.xml:27:22-71
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8ae053c881a1fb9f8eae3ba486045fc3/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.4] /Users/Lenovo/.gradle/caches/8.11.1/transforms/0b1a54ee08c8e39f11f373bc09d24740/transformed/jetified-firebase-firestore-25.1.4/AndroidManifest.xml:21:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/311e4b0dda3e25b5656ca4b29210008f/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:40:13-87
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a011cbf465fdaa6364d710e59ece3e99/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/a011cbf465fdaa6364d710e59ece3e99/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-impl:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/dfd03bbd0ceb1b06b1b86b95580cf676/transformed/jetified-play-services-measurement-impl-22.4.0/AndroidManifest.xml:27:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8339d6efc7960d9cc6c235e8d21a9468/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8339d6efc7960d9cc6c235e8d21a9468/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8339d6efc7960d9cc6c235e8d21a9468/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8339d6efc7960d9cc6c235e8d21a9468/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b8f93b591cc1345a3561977b39f601e2/transformed/jetified-play-services-measurement-sdk-api-22.4.0/AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:27:22-79
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/b1f67360ff36805cdf393f1309d1762f/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:34:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/1af982b739211941da8ada5c06b714d6/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2323e1f35794a4c64822e64ea7520a8b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2323e1f35794a4c64822e64ea7520a8b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/2323e1f35794a4c64822e64ea7520a8b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/5222c75127fd17d91b9491082d67242f/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06cc06618b085b69456981059afdf968/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/06cc06618b085b69456981059afdf968/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:9:22-95
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8b7108744ecb682a1dcddb3410034dcf/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8b7108744ecb682a1dcddb3410034dcf/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35e7978a8423ebd4da9fc809c2fd9efa/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Lenovo/.gradle/caches/8.11.1/transforms/35e7978a8423ebd4da9fc809c2fd9efa/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/07d97ad65995da457beb7ab1d54d3a65/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/Lenovo/.gradle/caches/8.11.1/transforms/52061a664654c81ed845498e0950439a/transformed/jetified-ads-adservices-1.1.0-beta11/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/Lenovo/.gradle/caches/8.11.1/transforms/52061a664654c81ed845498e0950439a/transformed/jetified-ads-adservices-1.1.0-beta11/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/Lenovo/.gradle/caches/8.11.1/transforms/52061a664654c81ed845498e0950439a/transformed/jetified-ads-adservices-1.1.0-beta11/AndroidManifest.xml:24:13-50
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+permission#com.example.unibites.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.unibites.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/87ba6923dbc7c345fe555f95aed0b916/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8b7108744ecb682a1dcddb3410034dcf/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8b7108744ecb682a1dcddb3410034dcf/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/Lenovo/.gradle/caches/8.11.1/transforms/8b7108744ecb682a1dcddb3410034dcf/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4617ace39b9b337a798e1fa427474ad1/transformed/jetified-play-services-basement-18.5.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4617ace39b9b337a798e1fa427474ad1/transformed/jetified-play-services-basement-18.5.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/4617ace39b9b337a798e1fa427474ad1/transformed/jetified-play-services-basement-18.5.0/AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/Lenovo/.gradle/caches/8.11.1/transforms/80965de845f98a54fdbc5094d401d624/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] /Users/Lenovo/.gradle/caches/8.11.1/transforms/046a260873cfcb7e243d75670e21f28d/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/Lenovo/.gradle/caches/8.11.1/transforms/046a260873cfcb7e243d75670e21f28d/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/Lenovo/.gradle/caches/8.11.1/transforms/046a260873cfcb7e243d75670e21f28d/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/Lenovo/.gradle/caches/8.11.1/transforms/046a260873cfcb7e243d75670e21f28d/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/Lenovo/.gradle/caches/8.11.1/transforms/046a260873cfcb7e243d75670e21f28d/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:15:13-93

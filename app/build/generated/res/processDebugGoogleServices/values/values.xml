@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">687704802380-c97knd6enrtt8n1gvsp4o1fum11kk5gn.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">687704802380</string>
+    <string name="google_api_key" translatable="false">AIzaSyAFgZ5JyjE620YnrPIzppB5bq5KrDMNo1c</string>
+    <string name="google_app_id" translatable="false">1:687704802380:android:a9c02e3d40fdffec10e0e9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFgZ5JyjE620YnrPIzppB5bq5KrDMNo1c</string>
+    <string name="google_storage_bucket" translatable="false">univanibites.firebasestorage.app</string>
+    <string name="project_id" translatable="false">univanibites</string>
+</resources>

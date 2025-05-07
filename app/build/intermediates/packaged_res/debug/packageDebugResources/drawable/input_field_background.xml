@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Define the light peach/orange background color directly -->
+    <solid android:color="#FFF0E4" /> <!-- Adjust HEX code for exact color -->
+    <corners android:radius="16dp" /> <!-- Match corner radius in TextInputLayout -->
+    <!-- No stroke needed based on the design -->
+</shape>
