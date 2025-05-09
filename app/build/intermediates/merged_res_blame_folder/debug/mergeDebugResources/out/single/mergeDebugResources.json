@@ -420,10 +420,6 @@
         "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/drawable/fruitcorner.png"
     },
     {
-        "merged": "com.example.unibites.app-debug-46:/drawable_img_2.png.flat",
-        "source": "com.example.unibites.app-main-48:/drawable/img_2.png"
-    },
-    {
         "merged": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-debug-46:/color_nav_text_color.xml.flat",
         "source": "/Users/Lenovo/.gradle/daemon/8.11.1/com.example.unibites.app-main-48:/color/nav_text_color.xml"
     },

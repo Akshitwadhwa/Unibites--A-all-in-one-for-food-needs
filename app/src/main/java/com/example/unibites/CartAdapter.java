@@ -121,7 +121,7 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.CartViewHolder
             tvCartItemTotal = itemView.findViewById(R.id.priceTextView);
             btnDecreaseQuantity = itemView.findViewById(R.id.decreaseButton);
             btnIncreaseQuantity = itemView.findViewById(R.id.increaseButton);
-            btnRemoveItem = itemView.findViewById(R.id.removeButton);
+            btnRemoveItem = itemView.findViewById(R.id.btnRemoveItem);
         }
     }
 }

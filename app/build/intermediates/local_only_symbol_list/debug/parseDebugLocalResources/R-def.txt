@@ -96,6 +96,7 @@ id btnBack
 id btnCheckout
 id btnMenu
 id btnNotification
+id btnRemoveItem
 id button_google_signin
 id button_login
 id button_signup
@@ -146,7 +147,6 @@ id recyclerViewCart
 id recyclerViewDinner
 id recyclerViewLunch
 id recyclerViewSnacks
-id removeButton
 id smoothie_zone_card
 id splash_logo
 id text_account_prompt

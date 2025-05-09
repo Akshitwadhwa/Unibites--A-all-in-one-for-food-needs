@@ -34,12 +34,6 @@ public class MainActivity extends AppCompatActivity {
         bottomNavigationView = findViewById(R.id.bottom_navigation);
         bottomNavigationView.setLabelVisibilityMode(LabelVisibilityMode.LABEL_VISIBILITY_LABELED);
 
-        // Set home fragment as default
-        getSupportFragmentManager().beginTransaction()
-                .replace(R.id.fragment_container, new HomeFragment())
-                .commit();
-        bottomNavigationView.setSelectedItemId(R.id.nav_home);
-
         // Handle tab selection
         bottomNavigationView.setOnItemSelectedListener(item -> {
             Fragment selectedFragment = null;

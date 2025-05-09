@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:paddingVertical="12dp">
 
-        <!-- IMAGE: Item image - add food/product image here -->
+        <!-- Item image -->
         <ImageView
             android:id="@+id/itemImageView"
             android:layout_width="80dp"
@@ -41,6 +41,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:src="@tools:sample/avatars" />
 
+        <!-- Item name -->
         <TextView
             android:id="@+id/itemNameTextView"
             android:layout_width="0dp"
@@ -57,6 +58,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:text="Chole Bhature" />
 
+        <!-- Item price -->
         <TextView
             android:id="@+id/priceTextView"
             android:layout_width="wrap_content"
@@ -68,6 +70,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:text="₹150.00" />
 
+        <!-- Item details -->
         <TextView
             android:id="@+id/itemDetailsTextView"
             android:layout_width="0dp"
@@ -84,6 +87,7 @@
             app:layout_constraintTop_toBottomOf="@+id/itemNameTextView"
             tools:text="Cal (kcl): 25.00 | 60 items" />
 
+        <!-- Quantity control layout -->
         <LinearLayout
             android:id="@+id/quantityControlLayout"
             android:layout_width="wrap_content"
@@ -107,6 +111,7 @@
                 android:src="@drawable/ic_minus"
                 app:tint="#FF5722" />
 
+            <!-- Quantity text -->
             <TextView
                 android:id="@+id/quantityTextView"
                 android:layout_width="wrap_content"
@@ -128,22 +133,21 @@
                 app:tint="#FF5722" />
         </LinearLayout>
 
-        <!-- Remove Item Button -->
+        <!-- Delete button -->
         <ImageButton
-            android:id="@+id/removeButton"
+            android:id="@+id/btnRemoveItem"
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:layout_marginEnd="8dp"
             android:contentDescription="Remove item"
-            android:src="@drawable/img_2"
+            android:background="@drawable/img_2"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:tint="#FF5722" />
+            app:layout_constraintTop_toTopOf="parent" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:background="#EEEEEE" />
-</LinearLayout> 
+</LinearLayout>

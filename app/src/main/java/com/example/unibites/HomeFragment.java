@@ -19,7 +19,9 @@ import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class HomeFragment extends Fragment implements ProductAdapter.OnProductClickListener {
 
@@ -113,6 +115,8 @@ public class HomeFragment extends Fragment implements ProductAdapter.OnProductCl
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
+        // Uncomment the line below to add sample food items
+        // addSampleFoodItems();
         fetchAllProductsFromFirestore();
     }
 
@@ -171,6 +175,50 @@ public class HomeFragment extends Fragment implements ProductAdapter.OnProductCl
                         Log.e(TAG, "Error fetching products", task.getException());
                         Toast.makeText(getContext(), "Failed to fetch products", Toast.LENGTH_SHORT).show();
                     }
+                });
+    }
+
+    private void addSampleFoodItems() {
+        // Breakfast items
+        addFoodItem("Masala Dosa", 80.0, "Crispy dosa with spiced potato filling", "https://example.com/masala_dosa.jpg", "breakfast");
+        addFoodItem("Idli Sambar", 60.0, "Soft idlis served with sambar", "https://example.com/idli_sambar.jpg", "breakfast");
+        addFoodItem("Poha", 40.0, "Flattened rice with vegetables and spices", "https://example.com/poha.jpg", "breakfast");
+        addFoodItem("Upma", 45.0, "Semolina cooked with vegetables", "https://example.com/upma.jpg", "breakfast");
+
+        // Lunch items
+        addFoodItem("Butter Chicken", 180.0, "Tender chicken in rich tomato gravy", "https://example.com/butter_chicken.jpg", "lunch");
+        addFoodItem("Veg Biryani", 150.0, "Fragrant rice with mixed vegetables", "https://example.com/veg_biryani.jpg", "lunch");
+        addFoodItem("Paneer Butter Masala", 160.0, "Cottage cheese in rich tomato gravy", "https://example.com/paneer_butter_masala.jpg", "lunch");
+        addFoodItem("Chole Bhature", 120.0, "Spiced chickpeas with fried bread", "https://example.com/chole_bhature.jpg", "lunch");
+
+        // Snacks items
+        addFoodItem("Samosa", 30.0, "Crispy pastry with spiced potato filling", "https://example.com/samosa.jpg", "snacks");
+        addFoodItem("Kachori", 25.0, "Deep-fried pastry with lentil filling", "https://example.com/kachori.jpg", "snacks");
+        addFoodItem("Vada Pav", 35.0, "Spiced potato fritter in bread", "https://example.com/vada_pav.jpg", "snacks");
+        addFoodItem("Pav Bhaji", 80.0, "Spiced vegetable mash with bread", "https://example.com/pav_bhaji.jpg", "snacks");
+
+        // Dinner items
+        addFoodItem("Butter Naan", 40.0, "Soft bread with butter", "https://example.com/butter_naan.jpg", "dinner");
+        addFoodItem("Dal Makhani", 140.0, "Black lentils in rich gravy", "https://example.com/dal_makhani.jpg", "dinner");
+        addFoodItem("Jeera Rice", 80.0, "Fragrant rice with cumin", "https://example.com/jeera_rice.jpg", "dinner");
+        addFoodItem("Tandoori Roti", 30.0, "Whole wheat bread from tandoor", "https://example.com/tandoori_roti.jpg", "dinner");
+    }
+
+    private void addFoodItem(String name, double price, String description, String imageUrl, String category) {
+        Map<String, Object> product = new HashMap<>();
+        product.put("Productname", name);
+        product.put("ProductPrice", price);
+        product.put("description", description);
+        product.put("Productimage", imageUrl);
+        product.put("ProductCategory", category);
+
+        db.collection("Products")
+                .add(product)
+                .addOnSuccessListener(documentReference -> {
+                    Log.d(TAG, "Food item added with ID: " + documentReference.getId());
+                })
+                .addOnFailureListener(e -> {
+                    Log.w(TAG, "Error adding food item", e);
                 });
     }
 

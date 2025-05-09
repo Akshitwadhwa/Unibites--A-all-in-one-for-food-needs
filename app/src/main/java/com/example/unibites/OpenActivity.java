@@ -23,9 +23,8 @@ public class OpenActivity extends AppCompatActivity {
         qcafeCard.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Navigate to MainActivity with home fragment
+                // Navigate to MainActivity
                 Intent intent = new Intent(OpenActivity.this, MainActivity.class);
-                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                 startActivity(intent);
                 finish();
             }
